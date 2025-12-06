@@ -1,0 +1,25 @@
+
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Build artefacts
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Binaries produced by exercises
+259
+260
+269
+showbytes
+
+# Generic binaries
+bin/
+
+# Backups
+*~
