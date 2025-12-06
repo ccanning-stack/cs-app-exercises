@@ -28,11 +28,10 @@ This repository contains my solutions to exercises from *Computer Systems: A Pro
 
 Exercises are named after the section numbers they come from:
 ```
-259.c, 260.c, ..., 269.c
+259.c, 260.c, ..., 269.c, showfiles.c is an exception
 ```
 
 Utility programs and supporting files:
-- `show-bytes.c`
 - `Makefile`
 
 Compiled binaries may exist for convenience/testing.
